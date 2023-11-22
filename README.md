@@ -1,6 +1,6 @@
 #Preguntados COBAEP
 
-Este es un juego estilo Preguntados!
+Este es un juego estilo Jeopardy!
 
 ## Para crear y ejecutar archivos
 ```
