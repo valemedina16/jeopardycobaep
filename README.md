@@ -1,4 +1,4 @@
-#Preguntados COBAEP
+#Jeopardy COBAEP
 
 Este es un juego estilo Jeopardy!
 
