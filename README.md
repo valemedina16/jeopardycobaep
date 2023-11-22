@@ -1,11 +1,11 @@
-# Jeopardy Game
+#Preguntados COBAEP
 
-This is a jeopardy style game in a console. Not more explination needed.
+Este es un juego estilo Preguntados!
 
-## To build & run file
+## Para crear y ejecutar archivos
 ```
 $ make
-$ ./run
+$ ./main
 ```
 
 ## Clean build
